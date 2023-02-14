@@ -1,0 +1,44 @@
+.form-form-selected p {
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 40px;
+    
+  }
+  .form-form-selected:hover{
+    border: solid rgb(3, 133, 255) 2px;
+
+  }
+  
+  .form-register a {
+    color: rgb(184, 17, 17);
+    text-decoration: none;
+  }
+  
+  .form-register a:hover {
+    color: rgb(189, 31, 31);
+    text-decoration: underline;
+  }
+  
+  .form-selected .botons {
+    width: 100%;
+    background: #1f53c5;
+    padding: 12px;
+    color: white;
+    margin: 16px 0;
+    font-size: 16px;
+    border: none;
+    border-radius: 10px;
+  }
+  /* estilos del input de seleccion de id */
+  .form-selected{
+    width: 100%;
+    background: #1f53c5;
+    padding: 12px;
+    color: white;
+    margin: 16px 0;
+    font-size: 16px;
+    border: none;
+    border-radius: 10px;
+  
+  }
